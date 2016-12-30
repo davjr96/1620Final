@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DoorOpener</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="door_array">
+        <item>Mec North</item>
+        <item>Mec South</item>
+        <item>Mec 213</item>
+        <item>Mec 214</item>
+        <item>Mec 215</item>
+        <item>Mec 205</item>
+    </string-array>
+</resources>
